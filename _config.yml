@@ -1,8 +1,7 @@
-title: Blog de neiop13
+title: Blog de test de neiop13
 author: neiop13
-email: your-email@domain.com
+email: testest@testestestestVVVVVVVhhhGgzjz.com
 description: > # this means to ignore newlines until "baseurl:"
-  Blog de test
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
